@@ -1,0 +1,108 @@
+
+
+
+Short Note
+
+this is a reference created to help the collaborators. 
+============
+
+callback is a function that is passed as an argument
+to another function
+
+used to handle asynchronous operation 
+1. reading a file 
+2. network request
+3. interacting with database
+
+for each is a method used to iterate over he elements of
+an array and apply a specifide function (callback)
+to each element ie. array.foreach(callback);
+
+I provide this note for your reference
+
+ Basic Bash comands 
+ ================
+ls - list a directory
+cd - change directory to other(forward or backward)
+pwd - print working directory (show path)
+mkdir - make directory(create folder)
+touch - to create a file(with any extenstion)
+echo - to write inside a file 
+mv - rename or move
+rm - remove a file
+rm -r = remove a folder
+
+database and server administrator
+commonly works on the terminal.
+Bash scripting is very powerfull it helps for repetitive works 
+
+
+
+git and github
+==============
+git is a verstion control
+its a technology used for 
+- tracking our progress 
+- collaborating - working with team in the sanme project 
+- saving the verstion of our code.
+where as github is used for centralized sorage of our code
+
+
+Git Work flow
+=============
+cloning - Clone the repository to your local machine using the git clone command.
+This creates a local copy of the repository that you can work with.
+
+Create Branch - create new branch for your task using the git branch command.
+    then switch to the newly created branch using git checkout command.
+
+Make Change(edit) - make changes to the codebase
+    using your preferred text editor.
+
+Stage and Commit Changes - Use the git add command 
+    to stage the changes you want to include in the next commit.
+    Then, use git commit to create a commit with a descriptive message explaining the changes. 
+
+Push Changes - Push your local branch to the remote repository using the git push command.
+  
+Forking - 
+
+Send Pull Request -  create a pull request to propose your changes to the repository's owner or maintainer.
+    Describe the purpose of the pull request and provide any necessary details.
+
+-Branch
+Merging Pull request - Once the changes have been reviewed and approved, 
+     the repository owner or a maintainer can merge the pull request into the main branch
+
+  
+
+  Terms 
+  ========
+  directory - folder
+
+  trminal - interface(where we interact with oure computer in CML)
+  CML - command Line
+
+  cd - change directory
+
+  Repository -  PLace holder where youre progect keept on
+
+  github - a website to host your repository
+
+  clone - Bring(copy) repository from github(remote store) into your local machin 
+
+  add - Track your files and changes in git.
+   (when you have updated or delated file)
+   commit - save the changed file in git.
+
+   push - Upload git commits to remote repo, like github.
+
+   pull - Download changes from remote repo to your local machine.
+   (the opposite of push)
+
+   README - the markdown file
+   Its all about discreption of the project
+      what the project is about?
+      what it does ?
+
+   
