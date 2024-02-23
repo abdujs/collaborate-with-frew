@@ -2,23 +2,8 @@
 
 
 Short Note
-
-this is a reference created to help the collaborators. 
-============
-
-callback is a function that is passed as an argument
-to another function
-
-used to handle asynchronous operation 
-1. reading a file 
-2. network request
-3. interacting with database
-
-for each is a method used to iterate over he elements of
-an array and apply a specifide function (callback)
-to each element ie. array.foreach(callback);
-
-I provide this note for your reference
+===========
+I provide this note for your reference.
 
  Basic Bash comands 
  ================
